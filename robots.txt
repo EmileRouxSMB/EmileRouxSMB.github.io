@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://emilerouxsmb.github.io//sitemap.xml
+Sitemap: https://EmileRouxSMB.github.io/sitemap.xml
