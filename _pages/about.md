@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
- <p><a href='https://www.univ-smb.fr/'> Université Savoie Mont Blanc</a> </p>
- <p><a href='https://www.univ-smb.fr/symme/'>SYMME laboratory</a> </p>
+ <p>Associate professor at <a href='https://www.univ-smb.fr/'> Université Savoie Mont Blanc</a>, <a href='https://www.univ-smb.fr/symme/'>SYMME laboratory</a> </p>, France.
 
 profile:
   align: right
