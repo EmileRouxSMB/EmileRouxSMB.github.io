@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Émile Roux 
     - name: Date of Birth
-      value: 14th March 1879
+      value: 3rd of jeune 1983
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Cemef, Mines ParisTech, France
+      year: 2011
       description:
         - Description 1.
         - Description 2.
