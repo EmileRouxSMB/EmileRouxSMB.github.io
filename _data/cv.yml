@@ -15,48 +15,23 @@
       institution: Cemef, Mines ParisTech, France
       year: 2011
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation title: Mechanical joining - strategies dedicated to processes optimisation and mechanical behaviour identification. 
+        - Key words: Mechanical joining, optimisation, inverse analysis, parameters identification, ductile damage.
+
+    - title: Advanced Master's Degree
+      institution:  Cemef, Mines ParisTech, France
+      year: 2007
       description:
-        - Description 1.
-        - Description 2.
+        - Computational Mechanics
+    - title: Master of Engineering (MEng)
+      institution:  Ecole Nationale Supérieure d'Electricité et de Mécanique (ENSEM), Nancy, France
+      year: 2006
+      description:
+        - Electricity and mechanics with major in mechanical engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
     - title: Associate Professor of Theoretical Physics
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
@@ -64,20 +39,11 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://symmehub.github.io/positron/intro.html">Positron</a>
+      year: 2020-now
+      description: Positron is a repository made collectively by several teachers and researchers from Annecy in France. It contains resources and exercises dealing with several topics related to numerical methods. They use the Python language. Most of the pages are in Jupyter format. 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+
 
 - title: Academic Interests
   type: nested_list
