@@ -15,8 +15,9 @@
       institution: Cemef, Mines ParisTech, France
       year: 2011
       description:
-        - Dissertation title: Mechanical joining - strategies dedicated to processes optimisation and mechanical behaviour identification. 
-        - Key words: Mechanical joining, optimisation, inverse analysis, parameters identification, ductile damage.
+        - Mechanical joining - strategies dedicated to processes optimisation and mechanical behaviour identification. 
+        - title: Keywords
+          - Mechanical joining, optimisation, inverse analysis, parameters identification, ductile damage.
 
     - title: Advanced Master's Degree
       institution:  Cemef, Mines ParisTech, France
