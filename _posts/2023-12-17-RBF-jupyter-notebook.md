@@ -17,8 +17,8 @@ It show how to use the package to fit a 1D function.
 
 ```html
 {::nomarkdown}
-{% assign jupyter_path = "https://gitlab.com/emileroux83/rbf-regression/-/blob/main/exemple/Exemple_1D.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists https://gitlab.com/emileroux83/rbf-regression/-/blob/main/exemple/Exemple_1D.ipynb %}{% endcapture %}
+{% assign jupyter_path = "https://gitlab.com/emileroux83/rbf-regression/-/blob/main/exemple/Exemple_1D.ipynb?ref_type=heads" | relative_url %}
+{% capture notebook_exists %}{% file_exists https://gitlab.com/emileroux83/rbf-regression/-/blob/main/exemple/Exemple_1D.ipynb?ref_type=heads%}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
 {% else %}
