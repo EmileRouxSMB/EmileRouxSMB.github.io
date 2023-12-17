@@ -14,7 +14,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -25,6 +25,4 @@ I'm also interested in the development of open source tools for teaching and res
 
 I made my PhD at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard, I worked on the development of a numerical tool for the optimisation of mechanical joining processes.
 
-After that I worked as a post-doctoral researcher at the University of Twente in the Netherlands. I worked on the development of a numerical tool for the prediction of defects manifactiring prcesses.
-Then I worked as a post-doctoral researcher at the ISAE in Toulouse, France.
-I worked on the development of a numerical tool for the oberservation of shear banding under dynamic loading.
+
