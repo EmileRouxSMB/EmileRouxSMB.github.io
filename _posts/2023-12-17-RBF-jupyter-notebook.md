@@ -13,7 +13,7 @@ Bellow is an exemple of use of the python package [rbf-regression](https://gitla
 
 It show how to use the package to fit a 1D function.
 
-{% raw %}
+
 
 ```html
 {::nomarkdown}
@@ -27,5 +27,4 @@ It show how to use the package to fit a 1D function.
 {:/nomarkdown}
 ```
 
-{% endraw %}
 
