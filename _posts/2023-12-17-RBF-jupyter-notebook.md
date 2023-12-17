@@ -4,7 +4,7 @@ title: a post with jupyter notebook
 date: 2023-12-17 08:57:00-0400
 description: RBF regression 
 tags: formatting jupyter
-categories: sample-posts
+categories: posts
 giscus_comments: true
 related_posts: false
 ---
