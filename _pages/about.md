@@ -25,3 +25,4 @@ I'm also interested in the development of open source tools for teaching and res
 
 I made my PhD at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard, I worked on the development of a numerical tool for the optimisation of mechanical joining processes.
 
+
