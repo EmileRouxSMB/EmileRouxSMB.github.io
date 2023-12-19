@@ -19,9 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm an associate professor at the University Savoie Mont Blanc in Annecy, France. 
-I'm a member of the SYMME laboratory. 
-My research interests are related to the numerical simulation of manufacturing processes.
-I'm also interested in the development of open source tools for teaching and research purposes.
+I'm a member of the SYMME laboratory.
 
 I made my PhD at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard, I worked on the development of a numerical tool for the optimisation of mechanical joining processes.
 
