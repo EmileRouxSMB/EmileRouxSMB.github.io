@@ -38,15 +38,15 @@
       description: 
         - Teaching: 
           - Continuum mechanics
-          - Finite element method
-          - Numerical methods / Programming
+          - Fluid mechanics
+          - Numerical methods for industrial engineering / Python programming
           - Dynamics of solid
         - Research topics: 
-          - Numerical methods for solid mechanics
-          - Inverse analysis / Optimisation
-          - Experimental mechanics (DIC, high speed imaging, thermography)
+          - Numerical methods for solid mechanics.
+          - Inverse analysis / Optimisation.
+          - Experimental mechanics (DIC, high speed imaging, thermography).
         - academic responsabilities: 
-          - Co-scentific animator od the OMPP team at the Symme Laboratory (2019-now).
+          - Co-scentific animator of the OMPP team at the Symme Laboratory (2019-now).
           - Semester coordinator of the M1 of materials and mecatronics engineering (2012-now).
     - title: Post-Doctoral Researcher
       institution: ISAE - Institut Clément Ader, Toulouse, France
