@@ -36,8 +36,18 @@
       institution: SYMME laboratory, Universtité Savoie Mont Blanc, Annecy, France
       year: 2015 - now
       description: 
-        - Teaching at Polytech Annecy-Chambéry. 
-        - Reaserch at SYMME laboratory. 
+        - Teaching: 
+          - Continuum mechanics
+          - Finite element method
+          - Numerical methods / Programming
+          - Dynamics of solid
+        - Research topics: 
+          - Numerical methods for solid mechanics
+          - Inverse analysis / Optimisation
+          - Experimental mechanics (DIC, high speed imaging, thermography)
+        - academic responsabilities: 
+          - Co-scentific animator od the OMPP team at the Symme Laboratory (2019-now).
+          - Semester coordinator of the M1 of materials and mecatronics engineering (2012-now).
     - title: Post-Doctoral Researcher
       institution: ISAE - Institut Clément Ader, Toulouse, France
       year: 2014 - 2015
