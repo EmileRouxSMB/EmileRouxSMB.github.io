@@ -35,19 +35,22 @@
     - title: Associate Professor
       institution: SYMME laboratory, Universtité Savoie Mont Blanc, Annecy, France
       year: 2015 - now
-      description: 
-        - Teaching: 
-          - Continuum mechanics
-          - Fluid mechanics
-          - Numerical methods for industrial engineering / Python programming
-          - Dynamics of solid
-        - Research topics: 
-          - Numerical methods for solid mechanics.
-          - Inverse analysis / Optimisation.
-          - Experimental mechanics (DIC, high speed imaging, thermography).
-        - academic responsabilities: 
-          - Co-scentific animator of the OMPP team at the Symme Laboratory (2019-now).
-          - Semester coordinator of the M1 of materials and mecatronics engineering (2012-now).
+      description:
+        - title: Teaching
+            contents:
+                - Continuum mechanics
+                - Fluid mechanics
+                - Numerical methods for industrial engineering / Python programming
+                - Dynamics of solid
+        - title: Research topics
+            contents: 
+                - Numerical methods for solid mechanics.
+                - Inverse analysis / Optimisation.
+                - Experimental mechanics (DIC, high speed imaging, thermography).
+        - title: Academic responsabilities: 
+            contents: 
+                - Co-scentific animator of the OMPP team at the Symme Laboratory (2019-now).
+                - Semester coordinator of the M1 of materials and mecatronics engineering (2012-now).
     - title: Post-Doctoral Researcher
       institution: ISAE - Institut Clément Ader, Toulouse, France
       year: 2014 - 2015
