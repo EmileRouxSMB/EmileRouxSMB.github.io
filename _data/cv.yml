@@ -1,8 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Émile Roux 
+      - name: Full Name
+            value: Émile Roux 
     - name: Date of Birth
       value: 3rd of june 1983
     - name: Languages
@@ -37,20 +37,20 @@
       year: 2015 - now
       description:
         - title: Teaching
-            contents:
-                - Continuum mechanics
-                - Fluid mechanics
-                - Numerical methods for industrial engineering / Python programming
-                - Dynamics of solid
+        contents:
+          - Continuum mechanics
+          - Fluid mechanics
+          - Numerical methods for industrial engineering / Python programming
+          - Dynamics of solid
         - title: Research topics
-            contents: 
-                - Numerical methods for solid mechanics.
-                - Inverse analysis / Optimisation.
-                - Experimental mechanics (DIC, high speed imaging, thermography).
-        - title: Academic responsabilities: 
-            contents: 
-                - Co-scentific animator of the OMPP team at the Symme Laboratory (2019-now).
-                - Semester coordinator of the M1 of materials and mecatronics engineering (2012-now).
+        contents: 
+          - Numerical methods for solid mechanics.
+          - Inverse analysis / Optimisation.
+          - Experimental mechanics (DIC, high speed imaging, thermography).
+        - title: Academic responsabilities 
+        contents: 
+          - Co-scentific animator of the OMPP team at the Symme Laboratory (2019-now).
+          - Semester coordinator of the M1 of materials and mecatronics engineering (2012-now).
     - title: Post-Doctoral Researcher
       institution: ISAE - Institut Clément Ader, Toulouse, France
       year: 2014 - 2015
