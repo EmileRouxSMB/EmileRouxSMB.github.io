@@ -38,20 +38,20 @@
       description:
          - My activities are
          - title: Teaching
-         description:
-          - Continuum mechanics
-          - Fluid mechanics
-          - Numerical methods for industrial engineering / Python programming
-          - Dynamics of solid
+           contents:
+             - Continuum mechanics
+             - Fluid mechanics
+             - Numerical methods for industrial engineering / Python programming
+             - Dynamics of solid
          - title: Research topics
-         description:
-          - Numerical methods for solid mechanics.
-          - Inverse analysis / Optimisation.
-          - Experimental mechanics (DIC, high-speed imaging, thermography).
+           contents:
+             - Numerical methods for solid mechanics.
+             - Inverse analysis / Optimisation.
+             - Experimental mechanics (DIC, high-speed imaging, thermography).
          - title: Academic responsabilities 
-         description :
-          - Co-scientific animator of the OMPP team at the Symme Laboratory (2019-now).
-          - Semester coordinator of the M1 of materials and mechatronics engineering (2012-now).
+           contents:
+             - Co-scientific animator of the OMPP team at the Symme Laboratory (2019-now).
+             - Semester coordinator of the M1 of materials and mechatronics engineering (2012-now).
     - title: Post-Doctoral Researcher
       institution: ISAE - Institut Clément Ader, Toulouse, France
       year: 2014 - 2015
