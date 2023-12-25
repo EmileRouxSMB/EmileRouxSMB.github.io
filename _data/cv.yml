@@ -36,20 +36,20 @@
       institution: SYMME laboratory, Universtité Savoie Mont Blanc, Annecy, France
       year: 2015 - now
       description:
-        - My activities are
-        - title: Teaching
-        contents:
+         - My activities are
+         - title: Teaching
+         contents:
           - Continuum mechanics
           - Fluid mechanics
           - Numerical methods for industrial engineering / Python programming
           - Dynamics of solid
-        - title: Research topics
-        contents: 
+         - title: Research topics
+         contents: 
           - Numerical methods for solid mechanics.
           - Inverse analysis / Optimisation.
           - Experimental mechanics (DIC, high-speed imaging, thermography).
-        - title: Academic responsabilities 
-        contents: 
+         - title: Academic responsabilities 
+         contents: 
           - Co-scientific animator of the OMPP team at the Symme Laboratory (2019-now).
           - Semester coordinator of the M1 of materials and mechatronics engineering (2012-now).
     - title: Post-Doctoral Researcher
