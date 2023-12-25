@@ -4,7 +4,7 @@
       - name: Full Name
             value: Émile Roux 
     - name: Date of Birth
-      value: 3rd of june 1983
+      value: 3rd of June 1983
     - name: Languages
       value: French, English
 
@@ -15,8 +15,8 @@
       institution: Cemef, Mines ParisTech, France
       year: 2011
       description:
-        - Mechanical joining - strategies dedicated to processes optimisation and mechanical behaviour identification. 
-        - Mechanical joining, optimisation, inverse analysis, parameters identification, ductile damage.
+        - Mechanical joining - strategies dedicated to process optimization and mechanical behavior identification. 
+        - Mechanical joining, optimization, inverse analysis, parameters identification, ductile damage.
 
     - title: Advanced Master's Degree
       institution:  Cemef, Mines ParisTech, France
@@ -27,7 +27,7 @@
       institution:  Ecole Nationale Supérieure d'Electricité et de Mécanique (ENSEM), Nancy, France
       year: 2006
       description:
-        - Electricity and mechanics with major in mechanical engineering
+        - Electricity and mechanics with a major in mechanical engineering
 
 - title: Experience
   type: time_table
@@ -36,6 +36,7 @@
       institution: SYMME laboratory, Universtité Savoie Mont Blanc, Annecy, France
       year: 2015 - now
       description:
+        - My activities are : 
         - title: Teaching
         contents:
           - Continuum mechanics
@@ -46,17 +47,17 @@
         contents: 
           - Numerical methods for solid mechanics.
           - Inverse analysis / Optimisation.
-          - Experimental mechanics (DIC, high speed imaging, thermography).
+          - Experimental mechanics (DIC, high-speed imaging, thermography).
         - title: Academic responsabilities 
         contents: 
-          - Co-scentific animator of the OMPP team at the Symme Laboratory (2019-now).
-          - Semester coordinator of the M1 of materials and mecatronics engineering (2012-now).
+          - Co-scientific animator of the OMPP team at the Symme Laboratory (2019-now).
+          - Semester coordinator of the M1 of materials and mechatronics engineering (2012-now).
     - title: Post-Doctoral Researcher
       institution: ISAE - Institut Clément Ader, Toulouse, France
       year: 2014 - 2015
       description:
-        - study of shear banding assisted fracture under dynamic laoding.
-        - dynamic caracterisation of UHS steel. 
+        - study of shear banding assisted fracture under dynamic loading.
+        - dynamic characterization of UHS steel. 
         - High frame rate imaging for impact test. 
         
     - title: Post-Doctoral Researcher
