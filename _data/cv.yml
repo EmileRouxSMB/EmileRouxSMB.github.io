@@ -76,5 +76,7 @@
     - title: <a href="https://symmehub.github.io/positron/intro.html">Positron</a>
       year: 2020-now
       description: Positron is a repository made collectively by several teachers and researchers from Annecy in France. It contains resources and exercises dealing with several topics related to numerical methods. They use the Python language. Most of the pages are in Jupyter format. 
-
+    - title: <a href="https://github.com/EmileRouxSMB/compmod2">CompMod2</a>
+      year: 2017-now
+      description: CompMod2.
 
