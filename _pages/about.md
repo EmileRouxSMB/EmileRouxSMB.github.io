@@ -21,20 +21,20 @@ social: true  # includes social icons at the bottom of the page
 I'm an associate professor at the University Savoie Mont Blanc in Annecy, France. 
 I'm a member of the SYMME laboratory.
 
-I made my PhD at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard, I worked on the development of a numerical tool for the optimisation of mechanical joining processes.
+I made my PhD at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard, I worked on the development of a numerical tool for the optimization of mechanical joining processes.
 
-Then I made 3 post-docs :
-- at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard and Prof. Marc Bernacki.
-I worked on the european projetc ParCrolp II.
-- at the University of Twente, Netherlands. Under the supervision of Prof. Ton Van Den Boogaard.
-I worked on the european projetc MegaFit in collaboration with the company Philips.
-- at ISAE-Supaero, Toulouse, France. Under the supervision of Prof. Partice Longère.
+Then I made 3 postdocs:
+- At the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard and Prof. Marc Bernacki.
+I worked on the European project ParCrolp II.
+- At the University of Twente, Netherlands. Under the supervision of Prof. Ton Van Den Boogaard.
+I worked on the European project MegaFit in collaboration with the company Philips.
+- At ISAE-Supaero, Toulouse, France. Under the supervision of Prof. Partice Longère.
 
-My research interests are :
-- Numerical methods for non-linear mecanics apllied to:
+My research interests are
+- Numerical methods for non-linear mechanics applied to:
   - the mechanics of materials (plasticity and damage)
-  - non linear oscilators
-- Computer vision for experiemntal mechanics
+  - nonlinear oscillators
+- Computer vision for experimental mechanics
   - Digital image correlation
   - Thermal imaging
   - Machine learning for experimental mechanics
