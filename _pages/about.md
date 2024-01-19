@@ -23,4 +23,19 @@ I'm a member of the SYMME laboratory.
 
 I made my PhD at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard, I worked on the development of a numerical tool for the optimisation of mechanical joining processes.
 
+Then I made 3 post-docs :
+- at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard and Prof. Marc Bernacki.
+I worked on the european projetc ParCrolp II.
+- at the University of Twente, Netherlands. Under the supervision of Prof. Ton Van Den Boogaard.
+I worked on the european projetc MegaFit in collaboration with the company Philips.
+- at ISAE-Supaero, Toulouse, France. Under the supervision of Prof. Partice Longère.
+
+My research interests are :
+- Numerical methods for non-linear mecanics apllied to:
+  - the mechanics of materials (plasticity and damage)
+  - non linear oscilators
+- Computer vision for experiemntal mechanics
+  - Digital image correlation
+  - Thermal imaging
+  - Machine learning for experimental mechanics
 
