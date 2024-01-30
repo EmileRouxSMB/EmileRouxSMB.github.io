@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: RBF tutorial 
 date: 2023-12-17 08:57:00-0400
 description: RBF regression 
