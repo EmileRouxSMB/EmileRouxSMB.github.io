@@ -2,18 +2,12 @@
 layout: distill
 title: RBF tutorial 
 date: 2023-12-17 08:57:00-0400
-description: RBF regression 
+description: Exemple of RBF interpolation using Python.
 tags: Numerical-Methods Machine-Learning
 categories: posts
 giscus_comments: true
 related_posts: false
 ---
-
-Bellow is an exemple of use of the python package [rbf-regression](https://gitlab.com/emileroux83/rbf-regression) in a jupyter notebook.
-
-It show how to use the package to fit a 1D function.
-
-
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/RBF-tuto1.ipynb" | relative_url %}
