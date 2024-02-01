@@ -8,6 +8,7 @@ categories: posts
 giscus_comments: true
 related_posts: false
 ---
+maj.: 2024-02-01
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/RBF-tuto1.ipynb" | relative_url %}
