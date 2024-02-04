@@ -3,7 +3,7 @@ layout: distill
 title: RBF tutorial 
 date: 2023-12-17 08:57:00-0400
 description: Exemple of RBF interpolation using Python.
-tags: Numerical-Methods Machine-Learning
+tags: Numerical-Methods Machine-Learning Python
 categories: posts
 giscus_comments: true
 related_posts: false
