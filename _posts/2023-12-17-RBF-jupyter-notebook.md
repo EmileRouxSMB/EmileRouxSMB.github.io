@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: RBF tutorial 
-date: 2023-12-17 08:57:00-0400
+date: 2023-12-17
 description: Exemple of RBF interpolation using Python.
 tags: Numerical-Methods Machine-Learning Python
 categories: posts
