@@ -17,25 +17,20 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am an associate professor at the University Savoie Mont Blanc in Annecy, France, and a member of the SYMME laboratory.
 
-I'm an associate professor at the University Savoie Mont Blanc in Annecy, France. 
-I'm a member of the SYMME laboratory.
+I completed my PhD at the CEMEF laboratory in Sophia Antipolis, France, under the supervision of Prof. Pierre-Olivier Bouchard. My research focused on developing a numerical tool for optimizing mechanical joining processes.
 
-I made my PhD at the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard, I worked on the development of a numerical tool for the optimization of mechanical joining processes.
+Following my PhD, I undertook three postdoctoral positions:
+- At the CEMEF laboratory in Sophia Antipolis, France, under the supervision of Prof. Pierre-Olivier Bouchard and Prof. Marc Bernacki, where I worked on the European project ParCrolp II.
+- At the University of Twente, Netherlands, under the supervision of Prof. Ton Van Den Boogaard, where I contributed to the European project MegaFit in collaboration with Philips.
+- At ISAE-Supaero in Toulouse, France, under the supervision of Prof. Patrice Longère.
 
-Then I made 3 postdocs:
-- At the CEMEF laboratory in Sophia Antipolis, France. Under the supervision of Prof. Pierre-Olivier Bouchard and Prof. Marc Bernacki.
-I worked on the European project ParCrolp II.
-- At the University of Twente, Netherlands. Under the supervision of Prof. Ton Van Den Boogaard.
-I worked on the European project MegaFit in collaboration with the company Philips.
-- At ISAE-Supaero, Toulouse, France. Under the supervision of Prof. Partice Longère.
-
-My research interests are
-- Numerical methods for non-linear mechanics applied to:
-  - the mechanics of materials (plasticity and damage)
-  - nonlinear oscillators
-- Computer vision for experimental mechanics
+My research interests include:
+- Numerical methods for non-linear mechanics, particularly:
+  - Mechanics of materials (plasticity and damage)
+  - Nonlinear oscillators
+- Computer vision for experimental mechanics, including:
   - Digital image correlation
   - Thermal imaging
   - Machine learning for experimental mechanics
-
