@@ -319,7 +319,7 @@
   abstract     = {This paper introduces an optimized orbit jump strategy for nonlinear vibration energy harvesters (VEHs). Nonlinear VEHs are a promising alternative to linear VEHs due to their broadband characteristics. However, they exhibit complex dynamical behaviors, including not only high-power inter-well orbits but also low-power intra-well orbits and chaos. The existence of low-power orbits in their dynamics can restrict their energy harvesting performance. In order to overcome this issue, this study investigates an orbit jump strategy that allows the VEH to transition from low-power intra-well orbits to high-power inter-well orbits. The orbit jump strategy, which is based on varying the buckling level of a bistable VEH, has been previously studied but not yet optimized. In this study, we optimize this orbit jump strategy to ensure practical reproducibility and robustness against variations in parameters or excitation. Through the combination of thorough experimental identification and high-performance computing of the complex transients during orbit jumps, we achieved high numerical accuracy in orbit jump modeling. This was possible by a developed Python CUDA code using GPU parallel computing to handle a large number of numerical resolutions of the nonlinear VEH model. These simulations facilitate the optimization of both the robustness and the energy cost of orbit jumps, based on a novel numerical criterion. Experimental tests were performed on a bistable VEH over a frequency range of 30~Hz, validating the numerical results obtained with the optimized orbit jump strategy. Experimental results show an average success rate of 48\%, despite a variation of \$\$\textbackslash pm 15\textbackslash\%\$\$in the starting and ending times of the jump, leading to a robust and optimized orbit jump strategy. The proposed optimization procedure can be applied to other orbit jump strategies, and other types of nonlinear VEHs. The results indicate that the energy consumption required for a successful orbit jump ranges between 0.2 and 1~mJ, and can be restored within 0.2~s in the worst case.},
   langid       = {english},
   preview      = {CS_2024.jpg},
-  selected     = {true},
+  selected     = {false},
   bibtex_show = {true},
   keywords     = {Bistability,Buckling adjustments,Energy harvesting,GPU parallel computing,Nonlinear dynamics,Optimization,Orbit jump}
 }
@@ -358,5 +358,43 @@ abstract = {In this article, we propose the modelling of a tunable bistable piez
 }
 
 
+@article{emileD2ICD2ICDifferentiable2D2026,
+  title = {{{D2IC}}: {{A}} Differentiable {{2D}} Digital Image Correlation Framework},
+  author = {Emile, Roux},
+  date = {2026-06-01},
+  journaltitle = {SoftwareX},
+  shortjournal = {SoftwareX},
+  volume = {34},
+  pages = {102571},
+  issn = {2352-7110},
+  doi = {10.1016/j.softx.2026.102571},
+  url = {https://www.sciencedirect.com/science/article/pii/S2352711026000658},
+  urldate = {2026-02-24},
+  abstract = {D2IC is an open-source Python package for two-dimensional Digital Image Correlation (DIC) based on differentiable programming. It implements a global finite-element formulation: the displacement field is discretized on a quadrilateral mesh and estimated by minimizing a pixelwise brightness-constancy objective. Spring regularization can be added when needed. The computational core is written in JAX, which provides automatic differentiation, just-in-time compilation, and seamless execution on CPU or accelerator backends. D2IC exposes exact gradients of the correlation objective with respect to nodal displacements and other parameters. This enables rapid development of inverse problems, mechanically constrained extensions, and hybrid learning/optimization workflows without hand-derived Jacobians or finite differences. The package includes utilities for ROI/mesh generation from masks and a coarse translation-only initialization based on ZNCC at element centers with nodal projection. It also provides an optional nodal Gauss–Newton refinement to improve convergence from coarse initial guesses. Post-processing routines compute strains on the mesh. Thanks to end-to-end differentiability, the software also supports uncertainty propagation from image noise to displacement and strain via Jacobian–vector products. Worked examples and Jupyter notebooks reproduce validation on the 2D DIC Challenge datasets and demonstrate heterogeneous strain mapping and uncertainty visualization.},
+  keywords = {Automatic differentiation,Digital image correlation,Finite-element-based DIC,JAX,Photomechanics},
+  bibtex_show = {true},
+  selected     = {true},
+  preview  = {D2IC.jpg},
+  }
+
+@article{rouxPhysicsInformedGaussianProcesses2025a,
+  title = {Physics-{{Informed Gaussian Processes}} Model for Heat Source Identification},
+  author = {Roux, Emile and Balland, Pascale and Elmo, Christian and Charleux, Ludovic},
+  date = {2025-07-01},
+  journaltitle = {Materials Today Communications},
+  shortjournal = {Materials Today Communications},
+  volume = {47},
+  pages = {112892},
+  issn = {2352-4928},
+  doi = {10.1016/j.mtcomm.2025.112892},
+  url = {https://www.sciencedirect.com/science/article/pii/S2352492825014047},
+  urldate = {2025-12-09},
+  abstract = {Thermal source identification is crucial in various engineering fields, particularly in material science, where understanding heat generation during mechanical loading is essential for comprehending material behavior. This study introduces a novel method for identifying self-heating sources in steel under mechanical loading by leveraging infrared thermography and Physics-Informed Gaussian Processes (PIGP). The method addresses the limitations of traditional filtering techniques, which struggle with noise sensitivity and lack integration with physical laws. PIGP uses Gaussian process regression to model noisy temperature data while embedding the heat equation directly into its framework, enabling robust and physically consistent estimation of heat sources. We present the theoretical formulation, training, and inference process of PIGP in detail. Synthetic data experiments demonstrate that PIGP delivers accurate heat source estimations even under significant infrared measurement noise (σ=0.084 K), with estimation errors remaining below 5\%. These results make PIGP a highly competitive alternative to traditional filtering-based approaches, primarily due to its reduced number of tuning parameters. These results highlight PIGP’s potential as a robust and accurate tool for thermal source identification in complex, noisy environments.},
+  keywords = {Gaussian process,Heat source identification,Machine learning},
+  file = {C:\Users\rouxemi\Zotero\storage\FUXGUGCW\S2352492825014047.html},
+  bibtex_show = {true},
+  selected     = {true},
+  preview  = {PIGP.jpg},
+}
 
 
